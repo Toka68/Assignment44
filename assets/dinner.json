@@ -1,0 +1,7 @@
+{
+    "foodItems": [
+		{"food": "salad","price": 9,"calories": 150},
+		{"food": "spaghetti","price": 13,"calories": 250},
+		{"food": "puritto","price": 11,"calories": 210}
+    ]
+}

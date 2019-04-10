@@ -1,0 +1,7 @@
+{
+    "foodItems": [
+		{"food": "pasta", "price": 9, "calories": 150},
+		{"food": "pizza", "price": 12, "calories": 200},
+		{"food": "mac and chesse", "price": 5,"calories": 220}
+    ]
+}

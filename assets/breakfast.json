@@ -1,0 +1,7 @@
+{
+    "foodItems": [
+		{"food": "omelette","price": 5,"calories": 150},
+		{"food": "cereal","price": 8,"calories": 200},
+		{"food": "cream chesse bagel","price": 6,"calories": 220}
+    ]
+}
